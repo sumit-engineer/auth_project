@@ -1,0 +1,21 @@
+# Virtual environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.sqlite3
+
+# Media and uploaded files
+/media/
+
+# Static files (if you collect them later)
+staticfiles/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
